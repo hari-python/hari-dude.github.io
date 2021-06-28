@@ -14,19 +14,19 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title:  Harikrishnan S
+title: Jingbo Shang 
 
 # Short description of your site
-description: Welcome to my personal Website 
+description: Welcome to Jingbo Shang's Homepage! 
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "about"
-  Awards: "laugh"
-  Publications: "smile"
-  Experiences: "work"
+  Awards: "awards"
+  Publications: "publications"
+  Experiences: "experiences"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,9 +42,9 @@ avatar: "/img/avatar.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: <a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTM4NTA4MQ==' border='0' alt='Hit Counter'></a><br/>Jingbo Shang 
-  email: "example@example.com"
-  facebook: Not available on Facebook
-  github: hari-python
+  email: "shang7@illinois.edu"
+  facebook: jingbo.shang
+  github: shangjingbo1226
   
 # Select which links to show in the footer
 footer-links-active:
@@ -99,7 +99,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "India/kolkata"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
